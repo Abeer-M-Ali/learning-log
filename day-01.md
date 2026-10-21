@@ -66,4 +66,4 @@
 
 ## Questions I still have
 
-- (write any command that still feels like magic here)
+- (Nothing for now)
